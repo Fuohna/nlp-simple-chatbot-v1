@@ -1,0 +1,1676 @@
+intent,utterance
+TurnOff,switch the air conditioning off
+TurnOff,turn the ac off
+TurnOn,switch on the aircon
+TurnOn,turn the aircon on
+ChangeTemperature,change the minimum and maximum temperatures on my thermostat
+SetTemperatureToValue,set set my thermostat to 25 degree
+SetTemperatureToValueOnDevice,set the temperature to 80 degrees fahrenheit on my hall thermostat
+SetTemperatureBetweenValues,"set the low temperature to 23 degree on my thermostat , and the high to 29 degree"
+SetTemperatureOnDevice,change the minimum and maximum temperatures on my living room thermostat
+GetHumidity,show the humidity level
+GetHumidity,check the humidity level
+GetTemperature,what temperature do I have in here according to my cooling system ?
+GetTemperature,what temperature is it in here according to my air conditioning ?
+GetTemperatureFromDevice,check the temperature of the kitchen room temperature sensor
+GetTemperatureFromDevice,what does the living room indoor temperature sensor show ?
+OpenCalendar,open my calendar
+CheckCalendarOnDate,whats on my schedule on thursday
+CheckCalendarOnDate,whats on my schedule on 13th march
+AddEventWithName,add an event called 1on1
+AddEventWithName,add an event called neighborhood council to calendar
+AddEventOnDateWithDate,add an event called great streets on 1st may
+AddEventOnDateWithDate,add an event called library to calendar on 1st of july
+NotifyOnEventStart,notify me when an meeting on my calendar begins
+NotNotifyOnEventStart,do not notify me when an event on my calendar begins
+NotNotifyOnEventInLocation,do not notify me when an appointment on my calendar at location lab begins
+NotNotifyOnEventInLocation,do not notify me when an meeting on my calendar at location wawarsing begins
+NotifyOnEventInLocation,notify me when an appointment on my calendar at location west louisville begins
+NotifyOnEventInLocation,notify me when an meeting on my calendar at location ouray begins
+NotifyOnEventInLocation,notify me when an meeting on my calendar at location johns island begins
+OpenContacts,open my contacts
+OpenMyContact,show my contact's info
+EditContactWithName,open my contact miquela for edition
+EditContactWithName,open my contact chastity for edition
+EditContactWithName,open my contact hadria for edition
+EditContactWithNumber,change the name of my contact with number +1 803 555 0121
+EditNumberInContactWithName,change the number of my contact quintina
+EditNumberInContactWithNameToNumberAndToType,set the number +1 803 555 0199 in contact head as home
+ShowContactWithEmail,display my contacts with email helsa@yahoo.com
+ShowContactWithEmail,open my contacts with email gabriell.walliw@enron_development
+ShowContactWithEmail,show my google contacts with email karin.lepine@schwab.com
+ShowContactWithName,display my contacts with name plantagenet
+ShowContactWithName,show my contacts with name bernita
+ShowContactWithName,show my contacts with name marchris robinson
+ShowContactWithNameAndWithNumberAndWithType,create a new contact and call it lenna with the number +1 202 555 0176
+ShowContactWithNameAndWithNumberAndWithType,create a new contact and call it umeh with the number 860 555 0190
+ShowContactWithNameAndWithNumberAndWithType,create a new contact and call it glennis with the number 602 555 0122
+ShowContactWithNameAndWithNumberAndWithType,create a new contact and call it marty chrisman with the number 803 555 0193 as home
+ShowContactWithNameAndWithNumberAndWithType,create a new contact and call it claude with the number +1 303 555 0198 as work
+ShowContactWithNameAndWithNumberAndWithType,create a new contact and name it thane with the number +1 803 555 0178 as work
+ShowContactWithNameAndWithNumberAndWithType,create a new contact and name it linnell with the number 303 555 0194 as private
+ShowContactWithNameAndWithNumberAndWithType,create a new contact and name it chester with the number +1 202 555 0144 as home
+ShowContactWithNameAndWithNumberAndWithType,create a new contact and name it joana with the number 605 555 0109 as work
+ShowContactWithNameAndWithNumberAndWithType,create a new contact and name it bertina with the number 803 555 0116 as private
+ShowContactWithNameAndWithNumberAndWithType,create a new contact using a name guinevere with the number +1 502 555 0122 as work
+ShowContactWithNameAndWithNumberAndWithType,create a new contact using a name nike with the number +1 615 555 0179 as private
+ShowContactWithNameAndWithNumberAndWithType,create a new contact using a name jennifer walker with the number +1 303 555 0171 as home
+ShowContactWithNameAndWithNumberAndWithType,create a new contact using a name vicki with the number 202 555 0106 as work
+ShowContactWithNameAndWithNumberAndWithType,create a new contact using a name kass with the number 803 555 0114 as private
+ShowContactWithNumber,display my contacts with phone number +1 303 555 0143
+ShowContactWithNumber,open my contacts with phone number 202 555 0174
+ShowContactWithNumber,open my contacts with phone number 202 555 0107
+ShowContactWithNumberAndWithEmail,display my contacts with phone number +1 803 555 0121 and email murky@outlook.com
+ShowContactWithNumberAndWithEmail,open my contacts with phone number 615 555 0179 and email erma.kurys@gedaz.com
+ShowContactWithNumberAndWithEmail,show my contacts with phone number +1 202 555 0148 and email pakk@yahoogroups.com
+OpenEmail,check my gmail inbox
+OpenEmail,get email
+OpenEmail,check my gmail inbox
+OpenEmail,get my latest email
+ShowEmailFromSender,check emails i received from edythe@kpmg.com
+ShowEmailFromSender,check my emails from malissia@edelman.com
+ShowEmailFromSender,check my emails i received from enron.environmental@enron.com
+ShowEmailFromSender,get emails i got from suzette.candida@outlook.com
+ShowEmailFromSender,get emails i received from emalee@outlook.com
+ShowEmailFromSender,get my emails from shelby.gayla@gmail.com
+ShowEmailFromSender,get my emails i received from corie@proton.com
+ShowEmailWithLabel,show me emails labelled offers
+ShowEmailWithLabel,get emails with label music
+ShowEmailWithLabel,display my emails with label sport
+ShowEmailWithLabel,find my emails that have label holidays
+ShowEmailFromTime,show me my emails that arrived in the last 30 minutes
+ShowEmailFromTime,display emails that arrived in the last 15 minutes
+ShowEmailFromTime,find emails arrived on tuesday
+ShowEmailWithSubject,get my emails with subject information requests
+ShowEmailWithSubject,display emails with subject the original advantage
+ShowEmailWithPriority,get me unimportant emails
+SendEmailToAddressWithSubjectAndWithMessage,email virginia@outlook.com with subject re last night and message thanks for getting back to me
+SendEmailToAddressWithSubjectAndWithMessage,"forward an email to calvert with subject axia energy, lp with message sorry, i thought we had until the end of the week"
+SendEmailToAddressWithSubjectAndWithMessage,send an email to denys with subject free lunch on friday! with message improve their career prospects and increase their value using my gmail
+SendEmailToAddressWithSubjectAndWithMessage,send an email to timothy.j.detmering@enron.com with subject proposed edits to nda with message advent international dolphin communications and using my gmail
+SendEmailToAddressWithSubject,email to koral@cpuc.ca.gov with subject new edison advice letter
+SendEmailToAddressWithSubject,forward an email to faydra@hotmail.com with subject one more thing
+SendEmailToAddressWithSubject,send an email to laura schwartz with subject draft of ken's itinerary using my gmail
+SendEmail,forward an email
+SendEmailToAddress,email darran binns
+SendEmailToAddress,send an email to jonis@hotmail.com using my gmail
+SendEmailToAddress,send email to juta using my gmail
+ReplyToEmailFromAddress,answer ina
+ReplyToEmailFromAddress,reply to jo@haas.berkeley.edu
+OpenFacebook,make a new post on facebook
+PostStatus,post so tired today on facebook
+PostStatus,make a new post containing i am so happy right now on facebook
+PostPicture,post a picture on facebook
+PostPicture,upload a picture to my facebook
+PostPicture,put a picture to my facebook
+PostPictureWithCaption,post a picture with caption with my dad on facebook
+PostPictureWithUrl,post www.tinyurl.com/vmkgtf9 on facebook
+PostPictureWithUrlAndWithCaption,post www.tinyurl.com/vmkgtf9 on facebook with caption with my dad
+ShowAlbumWithName,show photos in album holidays
+ShowSteps,my steps from fitbit
+ShowSteps,the fitbit step counter
+ShowSteps,get the steps i have taken
+ShowStepsOnDate,get my fitbit step count on 1st January
+ShowStepsOnDate,get the count of steps on 1st January from fitbit
+ShowStepsOnDate,get the steps i have taken on 1st January
+ShowStepsOnDate,my fitbit steps on 1st January
+ShowStepsOnDate,the steps i have taken on 15.02.2020
+ShowBMI,my body measurements from fitbit
+AddWeight,make note of my weight on fitbit
+NotifyOnWeight,notify me if my weight goes over 60 kg
+OpenGdrive,list my files in google drive
+ShowFilesWithType,show my google drive files of type mp3
+ShowFilesWithStar,list the google drive files i starred
+ShowFilesFromTime,list my google drive files modified today
+ShowFilesWithSize,list my google drive files larger than 500 kb
+CreateFile,create a file in google drive
+CreateFileWithName,create a file in google drive named invoice
+ShowOldestFiles,list my google drive files that were created most recently
+SortReverseAlphabetical,list my google drive files in reverse alphabetical order
+OpenFileWithName,open my newfile for edition in google drive
+ShareFileWithNameToAddress,share my vegetarian recipies with mary.lou@gmail.com
+OpenInstagram,open my instagram
+ShowPictures,show me my recent instagram pictures
+ShowLastNumberPictures,show my 2 recent instagram pictures
+ShowLastNumberPictures,show me my 10 latest instagram pictures on my account
+ShowPicturesWithFilter,show my instagram pictures with filter lark
+ShowPicturesWithFilter,show me my instagram pictures that have the aden filter applied
+ShowPicturesWithLocation,show the instagram pictures i took in berlin
+ShowPicturesWithLocation,display my instagram pictures tagged with location douds
+ShowPicturesWithLocation,show me the instagram pictures i took in north tonawanda
+ShowPicturesWithLocation,show me my instagram pictures with gps tag searsboro
+ShowPicturesWithHashtag,show my instagram pictures tagged fashionphoto
+PostWithPicturesFromDateAndWithLocation,create a new post on instagram with all my photos taken in traer in February as a collage
+ShowPicturesFromDate,show my post from the 16 of July
+TakePicture,take a picture with instagram
+PostWithLastPictureWithLocationAndWithHashtag,create a post on instagram with the last photo from Gallery
+PostWithLastPictureWithLocationAndWithHashtag,create a new post on instagram with the last photo from Gallery adding fitspo hashtag
+ShowNews,latest news on nyt
+ShowNews,show the news from time
+ShowNewsFromSection,the time magazine sport section
+NotifyWhenPortalUpdates,notify me when nyt news updates
+NotifyWhenPortalUpdatesInSection,notify me when the ny times celebrity section publishes a new article
+CallNumber,call 34 678 09 94
+CallNumber,dial 34 678 09 94
+CallNumber,phone 22 590 01 45
+CallNumber,phone 00 589 999 000
+CallEmergency,call emergency services
+ShowSMS,check my sms inbox
+SMSToContact,send a message to valli
+SMSToContact,sms simonetta
+SMSToContact,text tedra
+SMSToContactWithMessage,send a message to renate containing call me
+SMSToContactWithMessage,send an sms message to maiga containing call me
+SMSToContactWithMessage,send an sms to luella containing please answer
+SMSToContactWithMessage,text helli containing please answer
+OpenSlack,open the slack app
+OpenSlack,launch slack app
+CheckMessagesFromUser,check messages i received on slack from laurence
+CheckMessagesFromUser,check recent messages from dickon in slack
+CheckMessagesFromUser,get messages i received on slack from d.hookfin
+CheckMessagesFromUser,get recent messages from carroll in slack
+CheckMessagesInChannel,get slack messages in class for physics i received in the last hour
+SendMessageToChannel,let slack channel services know that information about phillip and mercer
+SendMessageToChannel,message speculate on slack saying o job site wayfaircom prepares to launch on monday
+SendMessageToChannel,post can anyone print this for tomorrow ? to concerned on slack
+SendMessageToChannel,post a message on slack to transportation saying terms of the deal were undisclosed steve lingeman
+SendMessageToChannel,send new power plants and encourage consumption to trader on slack
+SendMessageToChannel,send a message on slack to editorial saying meetings with minimal guidance or supervision
+SendMessageToChannel,upload northeast independent transmission company proponents to services on slack
+SetPurposeOnChannel,set the purpose for slack channel class for physics to scrum
+SetTopicInChannel,set the topic for channel transportation to mona birthday on slack
+SetTopicInChannel,set the topic of slack channel services to news
+SendPictureToChannel,post a picture on slack to speculate
+SendPictureToChannel,post on slack to work
+SendPictureToChannel,send a picture on slack to party
+SendPictureToChannel,upload a picture on slack to helicopters
+SendPictureToChannelWithCaption,post a picture on slack to confidentially with caption minal
+SendPictureToChannelWithCaption,send a picture to slack channel possibilities with caption create
+SendPictureToChannelWithCaption,upload a picture on slack to steps with caption cents
+SendPictureWithUrlToChannel,post shorturl.at/B8SEzeV to slack channel work
+SendPictureWithUrlToChannel,send www.tinyurl.com/vFizsaY to party on slack
+SendPictureWithUrlToChannel,upload cutt.ly/PG2yIDH to possibilities on slack
+TurnOnOrOff,switch off the speaker
+TurnOnOrOff,switch on my speaker for me
+IncreaseVolume,make my speaker louder
+IncreaseVolumeByPercent,increase the volume of the speaker by 5
+DecreaseVolume,decrease my speaker 's volume
+DecreaseVolumeByPercent,reduce volume of speaker by 50
+DecreaseVolumeByPercent,decrease my speaker 's volume by 10 percent
+MuteOn,silence speaker
+MuteOff,unmute speaker
+OpenSpotify,use spotify to play some music
+OpenSpotify,play some music on spotify
+PlaySong,on spotify play choo choo
+PlaySong,play the arrow of our youth
+PlaySong,play a song moscow on spotify
+PlaySong,play the song trofea
+PlaySongByArtist,on spotify play die by tool
+PlaySongByArtist,play norman fucking rockwell by alex cameron
+PlaySongByArtist,play the song venus in furs by thee oh sees on spotify
+PlayAlbumOfTypeByArtist,on spotify play this is how you smile stamina by andy stott
+PlayAlbumOfTypeByArtist,play the careful return to center by unknown mortal orchestra on spotify
+Pause,play spotify
+Pause,play that track
+Pause,pause this track
+Pause,repeat that track
+NextSong,play the next track on spotify
+NextSong,skip this song
+PreviousSong,go back to the last track
+PreviousSong,play the previous song
+PlayPlaylist,play the my playlist modern chill rock on spotify
+PlayPlaylist,play a piano study playlist on spotify
+AddSongToPlaylistWithName,add to playlist undercurrents
+AddSongToPlaylistWithName,add that song to my playlist jukebox joint on spotify
+AddSongToPlaylistWithName,add currently playing to soulfull disco playlist on spotify
+AddSongToPlaylistWithName,save track to my playlist your office stereo on spotify
+AddSongToPlaylistWithName,save currently playing track to modernism 50 playlist on spotify
+AddSongWithNameToPlaylistWithName,add track custom concern to playlist feeling blue on spotify
+AddSongWithNameToPlaylistWithName,add the track fantas to playlist your coffee break
+AddSongWithNameToPlaylistWithName,add a track of the past to my playlist dreampop
+AddSongWithNameToPlaylistWithName,save a track hit man to playlist fresh dance tracks on spotify
+AddAlbumToPlaylist,add that desire to my playlist the essential ska on spotify
+AddAlbumToPlaylist,add that girl with basket of fruits to my bach switched on playlist
+AddAlbumToPlaylist,add that data horde to my workday soul playlist on spotify
+AddAlbumToPlaylist,save this sirens to sweat
+AddAlbumToPlaylist,save this heard of a dog to peaceful piano on spotify
+AddAlbumToPlaylist,save this fear inoculum to playlist pure rock and roll
+CreatePlaylist,create a new list
+CreatePlaylist,make new list
+CreatePlaylist,add a new playlist
+CreatePlaylistWithName,create a playlist named road trip to tokyo
+CreatePlaylistWithName,make a playlist named legendary
+CreatePlaylistWithName,add a playlist named sunrise yoga
+AddSongToPlaylist,save current track
+SeekByTime,skip to 3 seconds
+ShuffleOnOff,turn shuffle off
+RepeatOnOff,turn repeat on
+ShowDanceability,how danceable is current song
+ShowDanceability,how dancey is this track
+ShowDanceability,danceability of this song
+ShowDanceability,the danceability of that track
+SetDefaultLanguage,set default output language to polish
+SetDefaultLanguage,change language to german
+SetDefaultLanguageToLanguage,set default source language to hawaiian
+SetDefaultLanguageToLanguage,change input language to hindi
+TranslateText,the translation of do you have anything quieter
+TranslateText,how do you say i lost my bag
+TranslateTextToLanguage,translation of how much is that into finish
+TranslateTextToLanguage,how do you say saturday in thai
+TranslateTextFromLanguageToLanguage,translate do you speak english from english to italian
+TranslateTextFromLanguageToLanguage,translate zakaz parkowania from polish to spanish
+TranslateTextFromLanguageToLanguage,translate ich heiße karl from german to italian
+TranslateTextFromLanguageToLanguage,translate no lo quiero from spanish to italian
+TranslateTextFromLanguageToLanguage,translate sera from italian to french
+TranslateTextFromLanguageToLanguage,translate un demi s'il-vous-plaît from french to italian
+TranslateTextFromLanguageToLanguage,translation of is there someone here who speaks english to polish from english
+TranslateTextFromLanguageToLanguage,translation of las to french from polish
+TranslateTextFromLanguageToLanguage,translation of che cos'è to german from italian
+TranslateTextFromLanguageToLanguage,the translation of zachód to french from polish
+TranslateTextFromLanguageToLanguage,the translation of dónde puedo obtener un talón de viajero cambiado from spanish to italian
+TranslateTextFromLanguageToLanguage,the translation of fais de beaux reves from french to german
+TranslateTextFromLanguageToLanguageWithEngine,translate you're welcome from english to french with yandex
+TranslateTextFromLanguageToLanguageWithEngine,translate nie mówię po polsku to english from polish with deepl
+TranslateTextFromLanguageToLanguageWithEngine,translate märz to italian from german with yandex
+TranslateTextFromLanguageToLanguageWithEngine,translate venerdì to polish from italian with google
+TranslateTextFromLanguageToLanguageWithEngine,translation of half a liter please from english to italian with deepl
+TranslateTextFromLanguageToLanguageWithEngine,translation of lipiec to english from polish with deepl
+TranslateTextFromLanguageToLanguageWithEngine,translation of aceptan tarjetas de crédito to english from spanish with google
+TranslateTextFromLanguageToLanguageWithEngine,translation of où puis-je faire le change to polish from french with deepl
+TranslateTextFromLanguageToLanguageWithEngine,the translation of kurczaka from polish to italian with google
+TranslateTextFromLanguageToLanguageWithEngine,the translation of cuando es la hora de cerrar from spanish to french with microsoft
+TranslateTextFromLanguageToLanguageWithEngine,the translation of à quelle heure fermez-vous from french to english with microsoft
+TranslateToLanguage,translate to russian
+TranslateToLanguage,translate to italian
+TranslateTextFromLanguage,the translation of italian sentence ho una domanda
+TranslateTextFromLanguage,translation of german sentence bier
+TranslateTextFromLanguage,translate pouvez-vous me faire le change sur un traveler's chèque from french
+DetectLanguage,language of adiós is written in
+DetectLanguage,detect what language mille is written in
+OpenTwitter,show tweets i made
+OpenTwitter,display my tweets
+FollowUser,be a twitter follower of myntmag
+UnfollowUser,stop following convalid1 on twitter
+SendMessage,direct message on twitter saying think of me think of me fondly
+SendMessage,message on twitter saying i lost two followers
+SendMessage,send a direct message on twitter saying for me to be so tired
+SendMessageToUser,message on twitter to summerbabe16 saying rip clevland
+SendMessageToUser,send a message on twitter to valovanity saying omg now it's leaving on a jet plane
+ShowTwittsWithHashtag,display tweets about salsa4change
+ShowTwittsWithHashtag,display tweets with hashtag bloodymarytime on twitter
+ShowTwittsWithHashtag,display tweets with hashtag dialoguesthatsux on twitter
+ShowTwittsWithHashtag,find tweets about myweakness
+ShowTwittsWithHashtag,find tweets with hashtag saintjohn
+ShowTwittsWithHashtag,show tweets with hashtag weightwatchers on twitter
+ShowTwittsWithHashtag,tweets about crocsfeelgood01
+OpenWeather,the weather outside
+WeatherTomorrow,tomorrow weather
+MoonphaseInLocation,moon phase for location dakar
+MoonphaseInLocationOnDate,moon phase for barnsdall on date 30 january
+SunriseAndSunsetInLocation,sunrise and sunset times at east fultonham
+SunriseAndSunsetInLocationAndOnDate,sunrise and sunset for location dos rios on date 7 september
+SunriseInLocation,sunrise at jonas ridge
+SunsetInLocation,sunset time at great lakes
+WeatherInLocation,current weather at tangipahoa
+WeatherInLocation,the current weather at kinston
+WeatherTomorrowInLocation,current weather at pebble beach tomorrow
+WeatherTomorrowInLocation,weather at french camp tomorrow
+OpenEngine,web search
+SearchText,pages matching progress book
+SearchText,websites matching repackaging fan
+SearchTextOnEngine,cast of game of thrones on google
+SearchTextOnEngine,bing agario
+SearchTextOnEngine,google dollar shave club
+SearchImagesWithTextOnEngine,images matching joker wallpaper from bing
+SearchImagesWithTextOnEngine,cats images on google
+SearchImagesOnEngine,search images on duckduckgo
+SearchImagesWithTextOnEngineWithWidthAndWithHeight,images from duckduckgo matching reflection nebula with size 800 x 600
+SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition,images from bing matching lebron 11 wider than 800
+OpenWikipedia,open wikipedia definition
+SearchQuery,statue of zeus at olympia in wiki
+SearchQuery,kanye west in wikipedia
+SearchQuery,find the art of war on wiki
+ScrollDown,scroll one page down
+ScrollUp,scroll one page up
+DownloadAsPdf,download that article as pdf
+ChangeLanguageToLanguage,change language to english
+ChangeLanguageToLanguage,change language of this page to portuguese
+ChangeLanguageToLanguage,show this page in italian
+ChangeLanguageToLanguage,show this article in portuguese
+RandomPage,random page
+GoToElementNumber,go to second item from contents
+GoToElementNumber,go to tenth item in contents
+SearchRestaurant,find restaurant nearby
+SearchRestaurant,search restaurants on yelp
+SearchByQuery,coffee shop
+SearchByRating,3 star restaurants on yelp
+SearchByCategory,french restaurants around here
+OpenRestaurants,restaurants open now
+SearchByReviewCount,restaurants here reviewed by at least 100 people
+OpenRestaurantsInLocation,open restaurants near kreuzberg
+OpenRestaurantsInLocation,restaurants still open around ravenden springs
+SearchByCategoryInLocation,japanease food around hanlontown
+SearchByCategoryInLocation,french restaurants near west leyden
+SearchByQueryInLocation,lorain county sushi around nelsonia
+SearchByQueryInLocation,pizza near evart on yelp
+SearchByRatingInLocation,3 star restaurants around schofield barracks
+SearchByRatingInLocation,4 star restaurants in mount lemmon
+SearchByRatingInLocation,restaurants nearby with at least 3 star rating near cincinnatus
+SearchByReviewCountInLocation,restaurants around tokio reviewed by at least 1000 people
+SearchByReviewCountInLocation,restaurants near inarajan reviewed by more than 1000 people
+SearchInLocation,restaurants around mill run
+SearchInLocation,restaurants next to santa rita park
+OpenYT,open youtube app
+FindQuery,find jacksepticeye on youtube
+FindQuery,find a video matching china crowded pics on youtube
+FindQuery,look for 1995 jeep radio repair videos videos on youtube
+FindQuery,play unfreezing frozen pipes video on youtube
+FindQuery,search for youtube video dubstep
+ShowChannelWithName,show youtube channel pewdiepie
+ShowChannelWithCategory,display youtube 's comedy channels
+ShowSubscribedChannels,show me channels I am subscribed to on youtube app
+ShowFollowing,show me youtube channels i follow
+FindChannelWithQuery,look for rockabye baby rockabye baby song channels on youtube
+FindChannelWithQuery,search for youtube channel taylor swift
+FindQueryOnChannel,show a video from niki and gabi matching seinfeld on youtube
+FindQueryOnChannel,show me a video from cineamasin matching lipstick on youtube
+FindQueryOnChannel,show me a videos published by wwe matching great gatsby on youtube
+NotifyOnNewFromFollowing,notify me when there is new video from youtube channels I follow
+NotifyonNewOnChannel,notify me when there is new video from youtube channel unbox therapy
+ChangeTemperature,change the minimum and maximum temperatures on my thermostat
+ChangeTemperature,change the temperature on my thermostat
+GetHumidity,check the humidity
+GetHumidity,check the humidity level
+GetHumidity,get the humidity
+GetHumidity,get the humidity level
+GetHumidity,show the humidity
+GetHumidity,show the humidity level
+GetTemperature,what temperature do I have in here according to my heating ?
+GetTemperature,what temperature do we have in here according to my ac ?
+GetTemperature,what temperature is it in here according to my aircon ?
+GetTemperatureFromDevice,check the temperature of the living room room temperature sensor
+GetTemperatureFromDevice,check what the kitchen home temperature sensor says
+GetTemperatureFromDevice,what does the hall indoor temperature sensor say ?
+GetTemperatureFromDevice,what does the bedroom indoor temperature sensor show ?
+SetTemperatureBetweenValues,"set the low temperature to 23 degree on my thermostat , and the high to 29 degree"
+SetTemperatureBetweenValues,set the temperature between 23 degree and 29 degree on my thermostat
+SetTemperatureOnDevice,change the minimum and maximum temperatures on my living room thermostat
+SetTemperatureOnDevice,change the temperature on my kitchen thermostat
+SetTemperatureToValue,set set my thermostat to 78 degrees fahrenheit
+SetTemperatureToValue,set temperature on my thermostat to 79 degrees fahrenheit
+SetTemperatureToValue,set the temperature to 25 degree on my thermostat
+SetTemperatureToValueOnDevice,set my hall thermostat to 22 degrees celsius
+SetTemperatureToValueOnDevice,set temperature on my bedroom thermostat to 24 degree
+SetTemperatureToValueOnDevice,set the temperature to 80 degrees fahrenheit on my living room thermostat
+TurnOff,switch off the air conditioning
+TurnOff,switch the cooling system off
+TurnOff,turn the hvac off
+TurnOn,switch on the heating
+TurnOn,switch the ac on
+TurnOn,turn the aircon on
+CheckCalendarOnDate,whats on my schedule on thursday
+NotNotifyOnEventInLocation,do not notify me when an appointment on my calendar at location lab begins
+NotNotifyOnEventInLocation,do not notify me when an event on my calendar at location home begins
+NotNotifyOnEventInLocation,do not notify me when an meeting on my calendar at location building b begins
+NotNotifyOnEventStart,do not notify me when an appointment on my calendar begins
+NotNotifyOnEventStart,do not notify me when an event on my calendar begins
+NotNotifyOnEventStart,do not notify me when an meeting on my calendar begins
+NotifyOnEventInLocation,notify me when an appointment on my calendar at location slack begins
+NotifyOnEventInLocation,notify me when an event on my calendar at location work begins
+NotifyOnEventInLocation,notify me when an meeting on my calendar at location facebook begins
+NotifyOnEventStart,notify me when an appointment on my calendar begins
+NotifyOnEventStart,notify me when an event on my calendar begins
+NotifyOnEventStart,notify me when an meeting on my calendar begins
+OpenCalendar,display my calendar
+OpenCalendar,open my calendar
+OpenCalendar,show my calendar
+EditContactWithName,edit my contact felicdad
+EditContactWithName,open my contact steven moses for edition
+EditContactWithNumber,change the name of my contact with number +1 803 555 0121
+EditNumberInContactWithName,change the number of my contact ruby
+EditNumberInContactWithNameToNumberAndToType,set the number 615 555 0179 in contact liu as home
+OpenContacts,display my contacts
+OpenContacts,open my contacts
+OpenContacts,show my contacts
+OpenMyContact,display my contact's info
+OpenMyContact,open my contact's info
+OpenMyContact,show my contact's info
+ShowContactWithEmail,display my contacts with email helsa@yahoo.com
+ShowContactWithEmail,display my google contacts with email adda.gurl@outlook.com
+ShowContactWithEmail,open my contacts with email jordan.dilisio@hotmail.com
+ShowContactWithEmail,open my google contacts with email claresta@schwab.com
+ShowContactWithEmail,show my contacts with email candice@fqnet.com
+ShowContactWithEmail,show my google contacts with email adam.sagan@gmail.com
+ShowContactWithName,display my contacts with name shay
+ShowContactWithName,open my contacts with name dyana
+ShowContactWithName,show my contacts with name matthews
+ShowContactWithNameAndWithNumberAndWithType,create a new contact and call it tressia and add the number 518 555 0188
+ShowContactWithNameAndWithNumberAndWithType,create a new contact and call it pamelina and add the number +1 202 555 0175 as work
+ShowContactWithNameAndWithNumberAndWithType,create a new contact and call it miquela and give it a number 615 555 0175
+ShowContactWithNameAndWithNumberAndWithType,create a new contact and call it chastity and give it a number +1 803 555 0171 as private
+ShowContactWithNameAndWithNumberAndWithType,create a new contact and call it hadria with a number +1 803 555 0199
+ShowContactWithNameAndWithNumberAndWithType,create a new contact and call it sandie with a number +1 701 555 0194 as home
+ShowContactWithNameAndWithNumberAndWithType,create a new contact and call it diane-marie with number 617 555 0135
+ShowContactWithNameAndWithNumberAndWithType,create a new contact and call it william with number 803 555 0171 as work
+ShowContactWithNameAndWithNumberAndWithType,create a new contact and call it gabie with the number +1 605 555 0184
+ShowContactWithNameAndWithNumberAndWithType,create a new contact and call it beutler with the number 617 555 0112 as private
+ShowContactWithNameAndWithNumberAndWithType,create a new contact and name it quintina and add the number +1 202 555 0148
+ShowContactWithNameAndWithNumberAndWithType,create a new contact and name it head and add the number +1 225 555 0136 as home
+ShowContactWithNameAndWithNumberAndWithType,create a new contact and name it garrity and give it a number 202 555 0176
+ShowContactWithNameAndWithNumberAndWithType,create a new contact and name it donna fulton and give it a number +1 225 555 0168 as work
+ShowContactWithNameAndWithNumberAndWithType,create a new contact and name it jaf with a number +1 602 555 0111
+ShowContactWithNameAndWithNumberAndWithType,create a new contact and name it sublett with a number +1 202 555 0142 as private
+ShowContactWithNameAndWithNumberAndWithType,create a new contact and name it lezlie with number 512 555 0178
+ShowContactWithNameAndWithNumberAndWithType,create a new contact and name it plantagenet with number +1 207 555 0128 as home
+ShowContactWithNameAndWithNumberAndWithType,create a new contact and name it alix with the number 617 555 0108
+ShowContactWithNameAndWithNumberAndWithType,create a new contact and name it gabriell with the number 303 555 0129 as work
+ShowContactWithNameAndWithNumberAndWithType,create a new contact using a name sagan and add the number +1 225 555 0164
+ShowContactWithNameAndWithNumberAndWithType,create a new contact using a name maureen mcvicker and add the number +1 602 555 0159 as private
+ShowContactWithNameAndWithNumberAndWithType,create a new contact using a name todd peikert and give it a number 803 555 0129
+ShowContactWithNameAndWithNumberAndWithType,create a new contact using a name fiester and give it a number 602 555 0111 as home
+ShowContactWithNameAndWithNumberAndWithType,create a new contact using a name susanetta with a number +1 512 555 0140
+ShowContactWithNameAndWithNumberAndWithType,create a new contact using a name buerger with a number +1 202 555 0174 as work
+ShowContactWithNameAndWithNumberAndWithType,create a new contact using a name dru with number +1 615 555 0103
+ShowContactWithNameAndWithNumberAndWithType,create a new contact using a name mellisa with number 701 555 0168 as private
+ShowContactWithNameAndWithNumberAndWithType,create a new contact using a name mollie with the number +1 605 555 0109
+ShowContactWithNameAndWithNumberAndWithType,create a new contact using a name holly bradford-nelson with the number +1 502 555 0156 as home
+ShowContactWithNumber,display my contacts with phone number +1 605 555 0134
+ShowContactWithNumber,open my contacts with phone number +1 202 555 0106
+ShowContactWithNumber,show my contacts with phone number 202 555 0147
+ShowContactWithNumberAndWithEmail,display my contacts with phone number +1 202 555 0146 and email nessy@pacbell.net
+ShowContactWithNumberAndWithEmail,open my contacts with phone number 605 555 0132 and email ivonne.jonie@outlook.com
+ShowContactWithNumberAndWithEmail,show my contacts with phone number +1 207 555 0129 and email dredi.sankey@cts.com
+OpenEmail,check email
+OpenEmail,check email inbox
+OpenEmail,check gmail
+OpenEmail,check gmail inbox
+OpenEmail,check my email
+OpenEmail,check my email inbox
+OpenEmail,check my emails
+OpenEmail,check my emails on gmail
+OpenEmail,check my gmail
+OpenEmail,check my gmail inbox
+OpenEmail,check my latest email
+OpenEmail,check my primary category emails
+OpenEmail,get email
+OpenEmail,get email inbox
+OpenEmail,get gmail
+OpenEmail,get gmail inbox
+OpenEmail,get my email
+OpenEmail,get my email inbox
+OpenEmail,get my emails
+OpenEmail,get my emails on gmail
+OpenEmail,get my gmail
+OpenEmail,get my gmail inbox
+OpenEmail,get my latest email
+OpenEmail,get my primary category emails
+ReplyToEmailFromAddress,reply to papagena@enron.com
+SendEmail,send an email
+SendEmail,send an email to somebody
+SendEmailToAddress,email tally@houston.rr.com
+SendEmailToAddress,send an email to virginia@outlook.com using my gmail
+SendEmailToAddressWithSubjectAndWithMessage,"email marron with subject offer and message hi, how are you?"
+SendEmailToAddressWithSubjectAndWithMessage,send an email to cynar with subject greetings with message thank you for contacting john
+SendEmailToAddressWithSubjectAndWithMessage,send an email to manton with subject meeting with message thanks for getting back to me using my gmail
+ShowEmailFromSender,check emails from carrissa@texaco.com
+ShowEmailFromSender,check emails i got from adiana.sarene@gmail.com
+ShowEmailFromSender,check emails i received from paul.quilkey@enron.com
+ShowEmailFromSender,check my emails from janelle@outlook.com
+ShowEmailFromSender,check my emails i got from orella.samanthia@yahoo.com
+ShowEmailFromSender,check my emails i received from megen@yahoo.com
+ShowEmailFromSender,get emails from wendy.whitworth@turner.com
+ShowEmailFromSender,get emails i got from neda@outlook.com
+ShowEmailFromSender,get emails i received from latia@gmail.com
+ShowEmailFromSender,get my emails from clickathome@enron.com
+ShowEmailFromSender,get my emails i got from mersey@outlook.com
+ShowEmailFromSender,get my emails i received from willy@aol.com
+ShowEmailFromTime,get emails arrived in the last two hours
+ShowEmailFromTime,get emails that arrived on friday
+ShowEmailFromTime,show me emails arrived today
+ShowEmailFromTime,show me emails that arrived in the last 30 minutes
+ShowEmailWithLabel,get my emails labelled offers
+ShowEmailWithLabel,get my emails that have label later
+ShowEmailWithLabel,get my emails with label books
+ShowEmailWithLabel,show me my emails labelled notifications
+ShowEmailWithLabel,show me my emails that have label ai
+ShowEmailWithLabel,show me my emails with label nlp
+ShowEmailWithPriority,show me important emails
+ShowEmailWithSubject,get my emails with subject information requests
+ShowEmailWithSubject,show me my emails with subject the original advantage
+OpenFacebook,make a new facebook post
+OpenFacebook,make a new post on facebook
+OpenFacebook,post something on facebook
+OpenFacebook,update my facebook status
+PostPicture,post a picture on facebook
+PostPicture,post a picture on my facebook
+PostPicture,post a picture to facebook
+PostPicture,post a picture to my facebook
+PostPicture,put a picture on facebook
+PostPicture,put a picture on my facebook
+PostPicture,put a picture to facebook
+PostPicture,put a picture to my facebook
+PostPicture,upload a picture on facebook
+PostPicture,upload a picture on my facebook
+PostPicture,upload a picture to facebook
+PostPicture,upload a picture to my facebook
+PostPictureWithCaption,post a picture on facebook with caption with my dad
+PostPictureWithCaption,post a picture with caption with my dad on facebook
+PostPictureWithCaption,upload a picture on facebook with caption with my dad
+PostPictureWithCaption,upload a picture with caption with my dad on facebook
+PostPictureWithUrl,post www.tinyurl.com/vmkgtf9 on facebook
+PostPictureWithUrl,upload www.tinyurl.com/vmkgtf9 to facebook
+PostPictureWithUrl,upload to facebook www.tinyurl.com/vmkgtf9
+PostPictureWithUrlAndWithCaption,caption www.tinyurl.com/vmkgtf9 as with my dad and post it on facebook
+PostPictureWithUrlAndWithCaption,caption www.tinyurl.com/vmkgtf9 as with my dad and upload it on facebook
+PostPictureWithUrlAndWithCaption,post www.tinyurl.com/vmkgtf9 on facebook with caption with my dad
+PostPictureWithUrlAndWithCaption,post www.tinyurl.com/vmkgtf9 on my facebook with caption with my dad
+PostPictureWithUrlAndWithCaption,put www.tinyurl.com/vmkgtf9 on facebook with caption with my dad
+PostPictureWithUrlAndWithCaption,put www.tinyurl.com/vmkgtf9 on my facebook with caption with my dad
+PostStatus,make a new post containing so tired today on facebook
+PostStatus,make a new post that says calm morning with my dog and coffee on facebook
+PostStatus,post i am so happy right now on facebook
+PostStatus,post on facebook saying just bought two tickets to ibiza
+PostStatus,post on facebook that so tired today
+PostStatus,update my facebook page saying calm morning with my dog and coffee
+PostStatus,update my facebook status saying i am so happy right now
+ShowAlbumWithName,diplay photos in album holidays
+ShowAlbumWithName,diplay photos in album cats on facebook
+ShowAlbumWithName,diplay photos in my album memes
+ShowAlbumWithName,diplay photos in my album holidays in jamaica on facebook
+ShowAlbumWithName,show photos in album barcelona
+ShowAlbumWithName,show photos in album my love on facebook
+ShowAlbumWithName,show photos in my album holidays
+ShowAlbumWithName,show photos in my album cats on facebook
+AddWeight,log my weight on fitbit
+AddWeight,make note of my weight on fitbit
+AddWeight,record my weight on fitbit
+NotifyOnWeight,notify me if my weight goes over 60 kg
+NotifyOnWeight,tell me if my weight goes over 80 kg
+ShowBMI,get my bmi from fitbit
+ShowBMI,get my body measurements from fitbit
+ShowBMI,get my weight from fitbit
+ShowBMI,my bmi from fitbit
+ShowBMI,my body measurements from fitbit
+ShowBMI,my weight from fitbit
+ShowSteps,get my fitbit step count
+ShowSteps,get my steps from fitbit
+ShowSteps,get the count of steps from fitbit
+ShowSteps,get the fitbit pedometer
+ShowSteps,get the fitbit step counter
+ShowSteps,get the number of steps from fitbit
+ShowSteps,get the number of steps i took
+ShowSteps,get the step count from fitbit
+ShowSteps,get the steps i have taken
+ShowSteps,my fitbit step count
+ShowSteps,my steps from fitbit
+ShowSteps,the count of steps from fitbit
+ShowSteps,the fitbit pedometer
+ShowSteps,the fitbit step counter
+ShowSteps,the number of steps from fitbit
+ShowSteps,the number of steps i took
+ShowSteps,the step count from fitbit
+ShowSteps,the steps i have taken
+ShowStepsOnDate,get my fitbit step count on 1st January
+ShowStepsOnDate,get my fitbit steps on 15.02.2020
+ShowStepsOnDate,get the count of steps on 1st January from fitbit
+ShowStepsOnDate,get the fitbit pedometer on 15.02.2020
+ShowStepsOnDate,get the fitbit step counter on 1st January
+ShowStepsOnDate,get the number of steps from fitbit on 15.02.2020
+ShowStepsOnDate,get the number of steps i took on 1st January
+ShowStepsOnDate,get the step count on 15.02.2020 from fitbit
+ShowStepsOnDate,get the steps i have taken on 1st January
+ShowStepsOnDate,my fitbit step count on 15.02.2020
+ShowStepsOnDate,my fitbit steps on 1st January
+ShowStepsOnDate,the count of steps on 15.02.2020 from fitbit
+ShowStepsOnDate,the fitbit pedometer on 1st January
+ShowStepsOnDate,the fitbit step counter on 15.02.2020
+ShowStepsOnDate,the number of steps from fitbit on 1st January
+ShowStepsOnDate,the number of steps i took on 15.02.2020
+ShowStepsOnDate,the step count on 1st January from fitbit
+ShowStepsOnDate,the steps i have taken on 15.02.2020
+CreateFile,create a file in google drive
+CreateFile,create google drive file
+CreateFileWithName,create a file in google drive named new file
+CreateFileWithName,create a new file with name invoice on google drive
+OpenFileWithName,open my readme for edition in google drive
+OpenGdrive,display my files in google drive
+OpenGdrive,display my google drive files
+OpenGdrive,list my files in google drive
+OpenGdrive,list my google drive files
+OpenGdrive,show my files in google drive
+OpenGdrive,show my google drive files
+ShareFileWithNameToAddress,share my vegetarian recipies with mary.lou@gmail.com
+ShareFileWithNameToAddress,share my movies to see with hahaha09@hotmail.com and give a permission for edition
+ShareFileWithNameToAddress,share my CV with sarah_odonnell@yahoo.com and give a permission for read and write
+ShareFileWithNameToAddress,share my project 1 with selena.g@gmail.com and give a permission for reading
+ShowFilesFromTime,display my google drive files created this week
+ShowFilesFromTime,display my google drive files modified this month
+ShowFilesFromTime,list my google drive files created today
+ShowFilesFromTime,list my google drive files modified this week
+ShowFilesFromTime,show my google drive files created this month
+ShowFilesFromTime,show my google drive files modified today
+ShowFilesWithSize,display my google drive files larger than 1 mb
+ShowFilesWithSize,display my google drive files smaller than 1 gigabyte
+ShowFilesWithSize,list my google drive files larger than 500 kb
+ShowFilesWithSize,list my google drive files smaller than 1 mb
+ShowFilesWithSize,show my google drive files larger than 1 gigabyte
+ShowFilesWithSize,show my google drive files smaller than 500 kb
+ShowFilesWithStar,display my starred google drive files
+ShowFilesWithStar,display the google drive files i starred
+ShowFilesWithStar,list my starred google drive files
+ShowFilesWithStar,list the google drive files i starred
+ShowFilesWithStar,show my starred google drive files
+ShowFilesWithStar,show the google drive files i starred
+ShowFilesWithType,display my mp3 files in google drive
+ShowFilesWithType,display my google drive files of type txt
+ShowFilesWithType,list my jpeg files in google drive
+ShowFilesWithType,list my google drive files of type mp3
+ShowFilesWithType,show my txt files in google drive
+ShowFilesWithType,show my google drive files of type jpeg
+ShowOldestFiles,display my google drive files that were created most recently
+ShowOldestFiles,display my newest google drive files
+ShowOldestFiles,display my oldest google drive files
+ShowOldestFiles,list my google drive files that were created most recently
+ShowOldestFiles,list my newest google drive files
+ShowOldestFiles,list my oldest google drive files
+ShowOldestFiles,show my google drive files that were created most recently
+ShowOldestFiles,show my newest google drive files
+ShowOldestFiles,show my oldest google drive files
+SortReverseAlphabetical,display my google drive files in alphabetical order
+SortReverseAlphabetical,display my google drive files in reverse alphabetical order
+SortReverseAlphabetical,list my google drive files in alphabetical order
+SortReverseAlphabetical,list my google drive files in reverse alphabetical order
+SortReverseAlphabetical,show my google drive files in alphabetical order
+SortReverseAlphabetical,show my google drive files in reverse alphabetical order
+OpenInstagram,open instagram
+OpenInstagram,open my instagram
+ShowLastNumberPictures,display my 2 latest instagram pictures
+ShowLastNumberPictures,display my 10 latest instagram pictures on my account
+ShowLastNumberPictures,display my 2 recent instagram pictures
+ShowLastNumberPictures,display my 10 recent instagram pictures on my account
+ShowLastNumberPictures,list my 2 latest instagram pictures
+ShowLastNumberPictures,list my 10 latest instagram pictures on my account
+ShowLastNumberPictures,list my 2 recent instagram pictures
+ShowLastNumberPictures,list my 10 recent instagram pictures on my account
+ShowLastNumberPictures,show me my 2 latest instagram pictures
+ShowLastNumberPictures,show me my 10 latest instagram pictures on my account
+ShowLastNumberPictures,show me my 2 recent instagram pictures
+ShowLastNumberPictures,show me my 10 recent instagram pictures on my account
+ShowLastNumberPictures,show my 2 latest instagram pictures
+ShowLastNumberPictures,show my 10 latest instagram pictures on my account
+ShowLastNumberPictures,show my 2 recent instagram pictures
+ShowLastNumberPictures,show my 10 recent instagram pictures on my account
+ShowPictures,display my instagram pictures
+ShowPictures,display my recent instagram pictures
+ShowPictures,list my instagram pictures
+ShowPictures,list my recent instagram pictures
+ShowPictures,show me my instagram pictures
+ShowPictures,show me my recent instagram pictures
+ShowPictures,show my instagram pictures
+ShowPictures,show my recent instagram pictures
+ShowPicturesFromDate,display my post from January
+ShowPicturesFromDate,display my post from the 2nd of June
+ShowPicturesFromDate,display my posts from February
+ShowPicturesFromDate,display my posts from the 3rd of May
+ShowPicturesFromDate,list my post from March
+ShowPicturesFromDate,list my post from the 16 of July
+ShowPicturesFromDate,list my posts from April
+ShowPicturesFromDate,list my posts from the 30th of June
+ShowPicturesFromDate,show me my post from May
+ShowPicturesFromDate,show me my post from the 12th of October
+ShowPicturesFromDate,show me my posts from January
+ShowPicturesFromDate,show me my posts from the 20th of April
+ShowPicturesFromDate,show my post from February
+ShowPicturesFromDate,show my post from the 2nd of June
+ShowPicturesFromDate,show my posts from March
+ShowPicturesFromDate,show my posts from the 3rd of May
+ShowPicturesWithFilter,display my instagram pictures that have the lark filter
+ShowPicturesWithFilter,display my instagram pictures that have the juno filter applied
+ShowPicturesWithFilter,display my instagram pictures that use filter sierra
+ShowPicturesWithFilter,display my instagram pictures with filter valencia
+ShowPicturesWithFilter,list my instagram pictures that have the clarendon filter
+ShowPicturesWithFilter,list my instagram pictures that have the gingham filter applied
+ShowPicturesWithFilter,list my instagram pictures that use filter crema
+ShowPicturesWithFilter,list my instagram pictures with filter aden
+ShowPicturesWithFilter,show me my instagram pictures that have the lark filter
+ShowPicturesWithFilter,show me my instagram pictures that have the juno filter applied
+ShowPicturesWithFilter,show me my instagram pictures that use filter sierra
+ShowPicturesWithFilter,show me my instagram pictures with filter valencia
+ShowPicturesWithFilter,show my instagram pictures that have the clarendon filter
+ShowPicturesWithFilter,show my instagram pictures that have the gingham filter applied
+ShowPicturesWithFilter,show my instagram pictures that use filter crema
+ShowPicturesWithFilter,show my instagram pictures with filter aden
+ShowPicturesWithHashtag,display my instagram pictures tagged fashionphoto
+ShowPicturesWithHashtag,list my instagram pictures tagged instadog
+ShowPicturesWithHashtag,show me my instagram pictures tagged resinjewelry
+ShowPicturesWithHashtag,show my instagram pictures tagged frenchie
+ShowPicturesWithLocation,display my instagram pictures i took in berlin
+ShowPicturesWithLocation,display my instagram pictures i took when i was in new york
+ShowPicturesWithLocation,display my instagram pictures tagged with location paris
+ShowPicturesWithLocation,display my instagram pictures taken in london
+ShowPicturesWithLocation,display my instagram pictures taken when i was in corral
+ShowPicturesWithLocation,display my instagram pictures with geolocation tag hartly
+ShowPicturesWithLocation,display my instagram pictures with gps tag magalia
+ShowPicturesWithLocation,display my instagram pictures with location tag aldie
+ShowPicturesWithLocation,display the instagram pictures i took in woodland mills
+ShowPicturesWithLocation,display the instagram pictures i took when i was in martins ferry
+ShowPicturesWithLocation,display the instagram pictures tagged with location hildreth
+ShowPicturesWithLocation,display the instagram pictures taken in madbury
+ShowPicturesWithLocation,display the instagram pictures taken when i was in westland
+ShowPicturesWithLocation,display the instagram pictures with geolocation tag pine ridge
+ShowPicturesWithLocation,display the instagram pictures with gps tag revloc
+ShowPicturesWithLocation,display the instagram pictures with location tag mantachie
+ShowPicturesWithLocation,list my instagram pictures i took in still river
+ShowPicturesWithLocation,list my instagram pictures i took when i was in fontana dam
+ShowPicturesWithLocation,list my instagram pictures tagged with location mount storm
+ShowPicturesWithLocation,list my instagram pictures taken in arona
+ShowPicturesWithLocation,list my instagram pictures taken when i was in willisville
+ShowPicturesWithLocation,list my instagram pictures with geolocation tag ahmeek
+ShowPicturesWithLocation,list my instagram pictures with gps tag lovely
+ShowPicturesWithLocation,list my instagram pictures with location tag valley center
+ShowPicturesWithLocation,list the instagram pictures i took in white river junction
+ShowPicturesWithLocation,list the instagram pictures i took when i was in orgas
+ShowPicturesWithLocation,list the instagram pictures tagged with location cerrillos
+ShowPicturesWithLocation,list the instagram pictures taken in stoutsville
+ShowPicturesWithLocation,list the instagram pictures taken when i was in douds
+ShowPicturesWithLocation,list the instagram pictures with geolocation tag aberdeen
+ShowPicturesWithLocation,list the instagram pictures with gps tag waynesboro
+ShowPicturesWithLocation,list the instagram pictures with location tag ellwood city
+ShowPicturesWithLocation,show me my instagram pictures i took in saddle river
+ShowPicturesWithLocation,show me my instagram pictures i took when i was in killawog
+ShowPicturesWithLocation,show me my instagram pictures tagged with location shepherdstown
+ShowPicturesWithLocation,show me my instagram pictures taken in hettinger
+ShowPicturesWithLocation,show me my instagram pictures taken when i was in carlin
+ShowPicturesWithLocation,show me my instagram pictures with geolocation tag dows
+ShowPicturesWithLocation,show me my instagram pictures with gps tag buckeye lake
+ShowPicturesWithLocation,show me my instagram pictures with location tag brainardsville
+ShowPicturesWithLocation,show me the instagram pictures i took in chicago
+ShowPicturesWithLocation,show me the instagram pictures i took when i was in ellamore
+ShowPicturesWithLocation,show me the instagram pictures tagged with location cedarvale
+ShowPicturesWithLocation,show me the instagram pictures taken in welling
+ShowPicturesWithLocation,show me the instagram pictures taken when i was in tennga
+ShowPicturesWithLocation,show me the instagram pictures with geolocation tag sabetha
+ShowPicturesWithLocation,show me the instagram pictures with gps tag paicines
+ShowPicturesWithLocation,show me the instagram pictures with location tag easley
+ShowPicturesWithLocation,show my instagram pictures i took in north tonawanda
+ShowPicturesWithLocation,show my instagram pictures i took when i was in islandia
+ShowPicturesWithLocation,show my instagram pictures tagged with location dothan
+ShowPicturesWithLocation,show my instagram pictures taken in pond creek
+ShowPicturesWithLocation,show my instagram pictures taken when i was in yeaddiss
+ShowPicturesWithLocation,show my instagram pictures with geolocation tag new freedom
+ShowPicturesWithLocation,show my instagram pictures with gps tag de graff
+ShowPicturesWithLocation,show my instagram pictures with location tag park valley
+ShowPicturesWithLocation,show the instagram pictures i took in iowa park
+ShowPicturesWithLocation,show the instagram pictures i took when i was in drytown
+ShowPicturesWithLocation,show the instagram pictures tagged with location margate city
+ShowPicturesWithLocation,show the instagram pictures taken in sutter creek
+ShowPicturesWithLocation,show the instagram pictures taken when i was in taylorstown
+ShowPicturesWithLocation,show the instagram pictures with geolocation tag steen
+ShowPicturesWithLocation,show the instagram pictures with gps tag elmwood
+ShowPicturesWithLocation,show the instagram pictures with location tag searsboro
+NotifyWhenPortalUpdates,notify me when huffington post front page updates
+NotifyWhenPortalUpdates,notify me when huffington news updates
+NotifyWhenPortalUpdatesInSection,notify me when the huffpost sport section publishes a new article
+ShowNews,latest techcrunch news
+ShowNews,latest news on new york times
+ShowNews,news on nyt
+ShowNews,open ny times
+ShowNews,read wired
+ShowNews,show me news from time
+ShowNews,show me the news from time magazine
+ShowNews,show news from fox news
+ShowNews,show the news from huffington post
+ShowNewsFromSection,the huffington politics section
+ShowNewsFromSection,the tech section of the huffpost
+CallEmergency,call 911
+CallEmergency,call ambulance
+CallEmergency,call emergency services
+CallEmergency,call fire department
+CallEmergency,call police
+SMSToContact,send a message to valli
+SMSToContact,send a sms to rhett
+SMSToContact,send a text to charo
+SMSToContact,text sonnie
+SMSToContactWithMessage,send a message to anagnos containing call me
+SMSToContactWithMessage,send a message to aurea saying we need to talk
+SMSToContactWithMessage,send a text to jereme containing please answer
+SMSToContactWithMessage,send a text to electra saying call me
+SMSToContactWithMessage,send an sms message to felice containing we need to talk
+SMSToContactWithMessage,send an sms message to jasmin saying please answer
+SMSToContactWithMessage,send an sms to darryl containing call me
+SMSToContactWithMessage,send an sms to jezebel saying we need to talk
+SMSToContactWithMessage,sms goldfarb containing please answer
+SMSToContactWithMessage,sms leanna saying call me
+SMSToContactWithMessage,text malvie containing we need to talk
+SMSToContactWithMessage,text anjanette saying please answer
+ShowSMS,check my sms inbox
+ShowSMS,display my sms inbox
+ShowSMS,show my sms inbox
+CheckLastMessages,check my last slack messages
+CheckLastMessages,check my slack channel history
+CheckLastMessages,get my last slack messages
+CheckLastMessages,get my slack channel history
+CheckMessagesFromUser,check messages i received on slack from mike
+CheckMessagesFromUser,check recent messages from barry in slack
+CheckMessagesFromUser,get messages i received on slack from xorgan
+CheckMessagesFromUser,get recent messages from astrid in slack
+CheckMessagesInChannel,check messages i received on slack in work
+CheckMessagesInChannel,check recent slack messages in party
+CheckMessagesInChannel,check slack messages in river i received in the last hour
+CheckMessagesInChannel,get messages i received on slack in my fellas
+CheckMessagesInChannel,get recent slack messages in jogging
+CheckMessagesInChannel,get slack messages in class for physics i received in the last hour
+OpenSlack,open slack
+SendMessage,post a message on slack
+SendMessage,post on slack
+SendMessage,send a message on slack
+SendMessage,send on slack
+SendMessage,upload a message on slack
+SendMessage,upload on slack
+SendMessageToChannel,message timeline on slack saying by carrie peyton dale kasler and john hill
+SendMessageToChannel,post start talks with venture capital firms in other to fundamentally on slack
+SendMessageToChannel,post a message on slack to memorandum saying to sell to california during shortages
+SendMessageToChannel,send been a little out of the loop lately to possibilities on slack
+SendMessageToChannel,upload for incumbent carriers the fund will invest between to kobra on slack
+SendPictureToChannel,post a picture on slack to porter
+SendPictureToChannel,post on slack channel services
+SendPictureToChannel,post on slack to speculate
+SendPictureToChannel,send a picture on slack to teamsters
+SendPictureToChannel,send something to slack channel baking
+SendPictureToChannel,upload a picture on slack to featuring
+SendPictureToChannel,upload a picture to slack channel citibank
+SendPictureToChannelWithCaption,post a picture on slack to sellers with caption funny
+SendPictureToChannelWithCaption,post a picture to slack channel megawatts with caption 24 hours until exam
+SendPictureToChannelWithCaption,send a picture on slack to confidentially with caption minal
+SendPictureToChannelWithCaption,send a picture to slack channel costs with caption arkansas
+SendPictureToChannelWithCaption,upload a picture on slack to trader with caption decision
+SendPictureToChannelWithCaption,upload a picture to slack channel editorial with caption crash
+SendPictureWithUrlToChannel,post shorturl.at/C71eDmb to network on slack
+SendPictureWithUrlToChannel,post shorturl.at/1UPJJUw to slack channel concerned
+SendPictureWithUrlToChannel,send bit.ly/5RTHNrw to grocery on slack
+SendPictureWithUrlToChannel,upload bit.ly/wQ9fQMD to work on slack
+SetPurposeOnChannel,set the purpose for channel party to decisions on slack
+SetPurposeOnChannel,set the purpose for slack channel river to bug fix
+SetStatusAway,mark me as away on slack
+SetStatusAway,mark me as not away on slack
+SetStatusAway,set me as away on slack
+SetStatusAway,set me as not away on slack
+SetTopicInChannel,set the topic for channel my fellas to mona birthday on slack
+SetTopicInChannel,set the topic of slack channel jogging to party
+DecreaseVolume,decrease my speaker 's volume
+DecreaseVolume,decrease speaker 's volume
+DecreaseVolume,decrease the volume of my speaker
+DecreaseVolume,decrease the volume of speaker
+DecreaseVolume,decrease volume of my speaker
+DecreaseVolume,decrease volume of speaker
+DecreaseVolume,reduce my speaker 's volume
+DecreaseVolume,reduce speaker 's volume
+DecreaseVolume,reduce the volume of my speaker
+DecreaseVolume,reduce the volume of speaker
+DecreaseVolume,reduce volume of my speaker
+DecreaseVolume,reduce volume of speaker
+IncreaseVolume,increase my speaker 's volume
+IncreaseVolume,increase the volume of the speaker
+IncreaseVolume,make my speaker louder
+IncreaseVolume,make the speaker louder
+MuteOff,unmute my speaker
+MuteOff,unmute speaker
+MuteOff,unmute the speaker
+MuteOn,mute my speaker
+MuteOn,mute speaker
+MuteOn,mute the speaker
+MuteOn,silence my speaker
+MuteOn,silence speaker
+MuteOn,silence the speaker
+TurnOnOrOff,help me switch on my speaker
+TurnOnOrOff,help me switch off the speaker
+TurnOnOrOff,help me turn on my speaker
+TurnOnOrOff,help me turn off the speaker
+TurnOnOrOff,switch on my speaker
+TurnOnOrOff,switch off my speaker for me
+TurnOnOrOff,switch on the speaker
+TurnOnOrOff,switch off the speaker for me
+TurnOnOrOff,turn on my speaker
+TurnOnOrOff,turn off my speaker for me
+TurnOnOrOff,turn on the speaker
+TurnOnOrOff,turn off the speaker for me
+NextSong,play next song
+NextSong,play next song on spotify
+NextSong,play next track
+NextSong,play next track on spotify
+NextSong,skip than song
+NextSong,skip than song on spotify
+NextSong,skip than track
+NextSong,skip than track on spotify
+NextSong,skip this song
+NextSong,skip this song on spotify
+NextSong,skip this track
+NextSong,skip this track on spotify
+OpenSpotify,open spotify
+OpenSpotify,open spotify and play some music
+OpenSpotify,open spotify to play some music
+OpenSpotify,play some music on spotify
+OpenSpotify,use spotify
+OpenSpotify,use spotify and play some music
+OpenSpotify,use spotify to play some music
+Pause,pause my spotify
+Pause,pause spotify
+Pause,pause that song
+Pause,pause that track
+Pause,pause this song
+Pause,pause this track
+Pause,play my spotify
+Pause,play spotify
+Pause,play that song
+Pause,play that track
+Pause,play this song
+Pause,play this track
+Pause,repeat my spotify
+Pause,repeat spotify
+Pause,repeat that song
+Pause,repeat that track
+Pause,repeat this song
+Pause,repeat this track
+Pause,resume my spotify
+Pause,resume spotify
+Pause,resume that song
+Pause,resume that track
+Pause,resume this song
+Pause,resume this track
+PlayAlbumOfTypeByArtist,on spotify play this is how you smile stamina by angel olsen
+PlayAlbumOfTypeByArtist,play anima by lightning bolt
+PlayAlbumOfTypeByArtist,play first taste by boy harsher on spotify
+PlayAlbumOfTypeByArtist,play a of the sun norman fucking rockwell by metronomy
+PlayAlbumOfTypeByArtist,play a igor autoclave by fennesz on spotify
+PlayAlbumOfTypeByArtist,play the year one demos black friday by tool
+PlayAlbumOfTypeByArtist,play the agora 1000 gecs by alex cameron on spotify
+PlaySong,on spotify play missing
+PlaySong,play body
+PlaySong,play wake up next to god on spotify
+PlaySongByArtist,on spotify play got you by slow thai
+PlaySongByArtist,play what is she waring by shellac
+PlaySongByArtist,play the city of roses by xiu xiu on spotify
+PreviousSong,go back
+PreviousSong,go back to the last song
+PreviousSong,go back to the last track
+DetectLanguage,detect language of gdzie ja jestem
+DetectLanguage,detect language of what is going on is written in
+SetDefaultLanguage,change default language to italian
+SetDefaultLanguage,change default output language to french
+SetDefaultLanguage,change default translation language to english
+SetDefaultLanguage,change language to japanease
+SetDefaultLanguage,change output language to russian
+SetDefaultLanguage,change translation language to polish
+SetDefaultLanguage,set default language to german
+SetDefaultLanguage,set default output language to spanish
+SetDefaultLanguage,set default translation language to thai
+SetDefaultLanguage,set language to czech
+SetDefaultLanguage,set output language to finnish
+SetDefaultLanguage,set translation language to esperanto
+SetDefaultLanguageToLanguage,change default input language to turkish
+SetDefaultLanguageToLanguage,change default source language to greek
+SetDefaultLanguageToLanguage,change input language to mongolian
+SetDefaultLanguageToLanguage,change source language to hawaiian
+SetDefaultLanguageToLanguage,set default input language to hindi
+SetDefaultLanguageToLanguage,set default source language to icelandic
+SetDefaultLanguageToLanguage,set input language to italian
+SetDefaultLanguageToLanguage,set source language to french
+FollowUser,be a twitter follower of amilee110
+FollowUser,become a follower of emilyclaiborne on twitter
+FollowUser,become a twitter follower of kmore
+FollowUser,follow myntmag on twitter
+OpenTwitter,display my posts on twitter
+OpenTwitter,display my recent tweets
+OpenTwitter,display my tweets
+OpenTwitter,display tweets i made
+OpenTwitter,show my posts on twitter
+OpenTwitter,show my recent tweets
+OpenTwitter,show my tweets
+OpenTwitter,show tweets i made
+SendMessage,direct message on twitter saying think of me think of me fondly
+SendMessage,dm on twitter saying tom hanks is on tomorrow sweet
+SendMessage,message on twitter saying will tweet later peace
+SendMessage,send a direct message on twitter saying waiting on that chat link
+SendMessage,send a dm on twitter saying i just failed my biology final
+SendMessage,send a message on twitter saying ob in class last day of it
+SendMessageToUser,direct message on twitter to mikieee182 saying sleep over with coco pheobe merideth and genivive
+SendMessageToUser,dm on twitter to dirtysouth777 saying is off to burrs todayy
+SendMessageToUser,message on twitter to ohsnapitscatie saying i lost two followers
+SendMessageToUser,send a direct message on twitter to chunkyface saying for me to be so tired
+SendMessageToUser,send a dm on twitter to jonradical saying outside readinghopefully i don't get burned again
+SendMessageToUser,send a message on twitter to renelae saying its been raining like all month
+ShowTwittsWithHashtag,display tweets about salsa4change
+ShowTwittsWithHashtag,display tweets about weather on twitter
+ShowTwittsWithHashtag,display tweets with hashtag pentax
+ShowTwittsWithHashtag,display tweets with hashtag farrahfawcettrip on twitter
+ShowTwittsWithHashtag,find tweets about stumble
+ShowTwittsWithHashtag,find tweets about bcleed09 on twitter
+ShowTwittsWithHashtag,find tweets with hashtag qgoogle
+ShowTwittsWithHashtag,find tweets with hashtag dublinbus on twitter
+ShowTwittsWithHashtag,show tweets about jugglecon
+ShowTwittsWithHashtag,show tweets about fastfood on twitter
+ShowTwittsWithHashtag,show tweets with hashtag masheu09
+ShowTwittsWithHashtag,show tweets with hashtag backgroundimage on twitter
+ShowTwittsWithHashtag,tweets about gopensgo
+ShowTwittsWithHashtag,tweets about pcatl on twitter
+ShowTwittsWithHashtag,tweets with hashtag su2c
+ShowTwittsWithHashtag,tweets with hashtag rbleipzig on twitter
+UnfollowUser,stop following muertenthesnw on twitter
+UnfollowUser,unfollow luvmyrandomness on twitter
+MoonphaseInLocation,moon phase for berlin
+MoonphaseInLocation,moon phase for location paris
+MoonphaseInLocationOnDate,moon phase for tokyo on date 30 january
+MoonphaseInLocationOnDate,moon phase for location warsaw on date 15 june
+OpenWeather,the weather
+OpenWeather,the weather outside
+OpenWeather,what's the weather
+OpenWeather,what's the weather like
+OpenWeather,what's the weather like outside
+OpenWeather,what's the weather outside
+SunriseAndSunsetInLocation,sunrise and sunset for location new york
+SunriseAndSunsetInLocation,sunrise and sunset times at dubai
+SunriseAndSunsetInLocationAndOnDate,sunrise and sunset for location seul on date 7 september
+SunriseAndSunsetInLocationAndOnDate,sunrise and sunset times at dakar on date 30 january
+SunriseInLocation,sunrise at barnsdall
+SunriseInLocation,sunrise time at summit
+SunriseInLocation,when is sunrise at ringsted
+SunriseInLocation,when is sunrise time at nixon
+SunsetInLocation,sunset at sussex
+SunsetInLocation,sunset time at saint robert
+SunsetInLocation,when is sunset at east berkshire
+SunsetInLocation,when is sunset time at toyah
+WeatherInLocation,current weather at shawano
+WeatherInLocation,current weather in terrace park
+WeatherInLocation,the current weather at rockhouse
+WeatherInLocation,the current weather in south international falls
+WeatherInLocation,the weather at fairlee
+WeatherInLocation,the weather in erin
+WeatherInLocation,weather at jayess
+WeatherInLocation,weather in east fultonham
+WeatherInLocation,what is the wather in dos rios
+WeatherInLocation,what is the wather like in beaman
+WeatherTomorrow,tomorrow weather
+WeatherTomorrow,weather tomorrow
+WeatherTomorrow,what's the weather tommorow
+WeatherTomorrow,what's the weather tommorow like
+WeatherTomorrowInLocation,current weather at copalis crossing tomorrow
+WeatherTomorrowInLocation,current weather in kraemer tomorrow
+WeatherTomorrowInLocation,the current weather at michael tomorrow
+WeatherTomorrowInLocation,the current weather in mount orab tomorrow
+WeatherTomorrowInLocation,the weather at index tomorrow
+WeatherTomorrowInLocation,the weather in center moriches tomorrow
+WeatherTomorrowInLocation,weather at gerton tomorrow
+WeatherTomorrowInLocation,weather in midland city tomorrow
+WeatherTomorrowInLocation,what is the wather in jonas ridge tomorrow
+WeatherTomorrowInLocation,what is the wather like in round rock tomorrow
+OpenEngine,google search
+OpenEngine,search on bing
+OpenEngine,search on duckduckgo
+OpenEngine,search on google
+OpenEngine,web search
+SearchImagesOnEngine,google image search
+SearchImagesOnEngine,image search
+SearchImagesOnEngine,search images on bing
+SearchImagesOnEngine,search images on duckduckgo
+SearchImagesOnEngine,search images on google
+SearchImagesWithTextOnEngine,samsung galaxy s5 images on bing
+SearchImagesWithTextOnEngine,iphone 6 images on duckduckgo
+SearchImagesWithTextOnEngine,joker images images on google
+SearchImagesWithTextOnEngine,images matching mike trout from bing
+SearchImagesWithTextOnEngine,images matching adele weight loss from duckduckgo
+SearchImagesWithTextOnEngine,images matching atari breakout from google
+SearchImagesWithTextOnEngineWithWidthAndWithHeight,images from bing matching heisenberg with size 800 x 600
+SearchImagesWithTextOnEngineWithWidthAndWithHeight,images from duckduckgo matching nintendo switch with size 800 x 600
+SearchImagesWithTextOnEngineWithWidthAndWithHeight,images from google matching wallpaper free fire with size 800 x 600
+SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition,images from bing matching earl sweatshirt larger than 800
+SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition,images from bing matching trippy drawings larger than 800 x 600
+SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition,images from bing matching 2020 quotes smaller than 800
+SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition,images from bing matching cats smaller than 800 x 600
+SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition,images from bing matching slope formula taller than 800
+SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition,images from bing matching qr code taller than 800 x 600
+SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition,images from bing matching kd shoes wider than 800
+SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition,images from bing matching 50 shades of grey wider than 800 x 600
+SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition,images from duckduckgo matching cute drawings larger than 800
+SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition,images from duckduckgo matching running meme larger than 800 x 600
+SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition,images from duckduckgo matching pizza hut menu smaller than 800
+SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition,images from duckduckgo matching munchkin cat smaller than 800 x 600
+SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition,images from duckduckgo matching joker wallpaper taller than 800
+SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition,images from duckduckgo matching fluttershy taller than 800 x 600
+SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition,images from duckduckgo matching multiplication chart wider than 800
+SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition,images from duckduckgo matching nikki bella wider than 800 x 600
+SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition,images from google matching love quotes for him larger than 800
+SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition,images from google matching nike free run larger than 800 x 600
+SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition,images from google matching burito hat smaller than 800
+SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition,images from google matching old songs smaller than 800 x 600
+SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition,images from google matching random drawing generator taller than 800
+SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition,images from google matching black hole image taller than 800 x 600
+SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition,images from google matching nebulae wider than 800
+SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition,images from google matching gordon ramsay wider than 800 x 600
+SearchText,pages matching progress book
+SearchText,web sites matching skype-a-thon
+SearchText,websites matching jamf eau claire wi
+SearchTextOnEngine,mla on bing
+SearchTextOnEngine,cargo on duckduckgo
+SearchTextOnEngine,hair on google
+SearchTextOnEngine,google google docs
+ChangeLanguageToLanguage,change language of this article to arabic
+ChangeLanguageToLanguage,change language of this article to chinese
+ChangeLanguageToLanguage,change language of this article to english
+ChangeLanguageToLanguage,change language of this article to french
+ChangeLanguageToLanguage,change language of this article to german
+ChangeLanguageToLanguage,change language of this article to italian
+ChangeLanguageToLanguage,change language of this article to polish
+ChangeLanguageToLanguage,change language of this article to portuguese
+ChangeLanguageToLanguage,change language of this article to russian
+ChangeLanguageToLanguage,change language of this article to spanish
+ChangeLanguageToLanguage,change language of this article to ukrainian
+ChangeLanguageToLanguage,change language of this page to arabic
+ChangeLanguageToLanguage,change language of this page to chinese
+ChangeLanguageToLanguage,change language of this page to english
+ChangeLanguageToLanguage,change language of this page to french
+ChangeLanguageToLanguage,change language of this page to german
+ChangeLanguageToLanguage,change language of this page to italian
+ChangeLanguageToLanguage,change language of this page to polish
+ChangeLanguageToLanguage,change language of this page to portuguese
+ChangeLanguageToLanguage,change language of this page to russian
+ChangeLanguageToLanguage,change language of this page to spanish
+ChangeLanguageToLanguage,change language of this page to ukrainian
+ChangeLanguageToLanguage,change language to arabic
+ChangeLanguageToLanguage,change language to chinese
+ChangeLanguageToLanguage,change language to english
+ChangeLanguageToLanguage,change language to french
+ChangeLanguageToLanguage,change language to german
+ChangeLanguageToLanguage,change language to italian
+ChangeLanguageToLanguage,change language to polish
+ChangeLanguageToLanguage,change language to portuguese
+ChangeLanguageToLanguage,change language to russian
+ChangeLanguageToLanguage,change language to spanish
+ChangeLanguageToLanguage,change language to ukrainian
+ChangeLanguageToLanguage,show this article in arabic
+ChangeLanguageToLanguage,show this article in chinese
+ChangeLanguageToLanguage,show this article in english
+ChangeLanguageToLanguage,show this article in french
+ChangeLanguageToLanguage,show this article in german
+ChangeLanguageToLanguage,show this article in italian
+ChangeLanguageToLanguage,show this article in polish
+ChangeLanguageToLanguage,show this article in portuguese
+ChangeLanguageToLanguage,show this article in russian
+ChangeLanguageToLanguage,show this article in spanish
+ChangeLanguageToLanguage,show this article in ukrainian
+ChangeLanguageToLanguage,show this page in arabic
+ChangeLanguageToLanguage,show this page in chinese
+ChangeLanguageToLanguage,show this page in english
+ChangeLanguageToLanguage,show this page in french
+ChangeLanguageToLanguage,show this page in german
+ChangeLanguageToLanguage,show this page in italian
+ChangeLanguageToLanguage,show this page in polish
+ChangeLanguageToLanguage,show this page in portuguese
+ChangeLanguageToLanguage,show this page in russian
+ChangeLanguageToLanguage,show this page in spanish
+ChangeLanguageToLanguage,show this page in ukrainian
+DownloadAsPdf,download article as pdf
+DownloadAsPdf,download page as pdf
+DownloadAsPdf,download that article as pdf
+DownloadAsPdf,download that page as pdf
+DownloadAsPdf,download this article as pdf
+DownloadAsPdf,download this page as pdf
+GoToElementNumber,go to tenth element from contents
+GoToElementNumber,go to tenth element in contents
+GoToElementNumber,go to tenth item from contents
+GoToElementNumber,go to tenth item in contents
+GoToElementNumber,go to third element from contents
+GoToElementNumber,go to third element in contents
+GoToElementNumber,go to third item from contents
+GoToElementNumber,go to third item in contents
+OpenWikipedia,open wikipedia
+OpenWikipedia,open wikipedia definition
+OpenWikipedia,open wikipedia pages
+RandomPage,random article
+RandomPage,random page
+RandomPage,show random article
+RandomPage,show random page
+RandomPage,surf
+RandomPage,surfing
+RandomPage,wiki surf
+RandomPage,wiki surfing
+RandomPage,wikipedia surf
+RandomPage,wikipedia surfing
+ScrollDown,page down
+ScrollDown,scroll down
+ScrollUp,page up
+ScrollUp,scroll up
+SearchQuery,statue of zeus at olympia in wiki
+SearchQuery,rms titanic in wikipedia
+SearchQuery,led zeppelin iv matching in wiki
+SearchQuery,gillette stadium matching in wikipedia
+SearchQuery,find mariah carey on wiki
+SearchQuery,find los angeles international airport on wikipedia
+SearchQuery,search berlin wall on wiki
+SearchQuery,search mark wahlberg on wikipedia
+OpenRestaurants,open restaurants nearby
+OpenRestaurants,restaurants open now
+OpenRestaurants,restaurants still open around here
+OpenRestaurantsInLocation,open restaurants near kreuzberg
+OpenRestaurantsInLocation,restaurants open now at soho
+OpenRestaurantsInLocation,restaurants still open around manhattan
+SearchByCategory,thai food
+SearchByCategory,japanease food around here
+SearchByCategory,american food nearby
+SearchByCategory,italian restaurants
+SearchByCategory,french restaurants around here
+SearchByCategory,thai restaurants nearby
+SearchByCategoryInLocation,japanease food around plaza del sol
+SearchByCategoryInLocation,american food near la rambla
+SearchByCategoryInLocation,italian restaurants around van horne
+SearchByCategoryInLocation,french restaurants near westmont
+SearchByQuery,coffee shop around
+SearchByQuery,downtown redmond parking garage nearby
+SearchByQuery,best craft brews and local eateries on yelp
+SearchByQueryInLocation,perkins restruant around grass lake
+SearchByQueryInLocation,lorain county sushi around auburn hills on yelp
+SearchByQueryInLocation,canton ri brewery restaurant at terreton
+SearchByQueryInLocation,best restaurants with a view toronto at cecil on yelp
+SearchByQueryInLocation,vancouver steakhouse meat entrees in fittstown
+SearchByQueryInLocation,best coffee shops portland or in allakaket on yelp
+SearchByQueryInLocation,german food near monticello
+SearchByQueryInLocation,pizza near cornell on yelp
+SearchByRating,4 star restaurants
+SearchByRating,5 star restaurants on yelp
+SearchByRating,restaurants nearby with at least 4 star rating
+SearchByRating,restaurants rated higher than 5 star
+SearchByRatingInLocation,4 star restaurants around mayport
+SearchByRatingInLocation,5 star restaurants around lordsburg on yelp
+SearchByRatingInLocation,4 star restaurants in ravenden springs
+SearchByRatingInLocation,5 star restaurants in hanlontown on yelp
+SearchByRatingInLocation,restaurants nearby with at least 4 star rating near cid
+SearchByRatingInLocation,restaurants rated higher than 5 star in moccasin
+SearchByReviewCount,restaurants here reviewed by at least 100 people
+SearchByReviewCount,restaurants here reviewed by at least 1000 users
+SearchByReviewCount,restaurants here reviewed by more than 10000 people
+SearchByReviewCount,restaurants here reviewed by more than 100 users
+SearchByReviewCount,restaurants nearby reviewed by at least 1000 people
+SearchByReviewCount,restaurants nearby reviewed by at least 10000 users
+SearchByReviewCount,restaurants nearby reviewed by more than 100 people
+SearchByReviewCount,restaurants nearby reviewed by more than 1000 users
+SearchByReviewCountInLocation,restaurants around momence reviewed by at least 10000 people
+SearchByReviewCountInLocation,restaurants around ralls reviewed by more than 100 people
+SearchByReviewCountInLocation,restaurants near kaneohe reviewed by at least 1000 people
+SearchByReviewCountInLocation,restaurants near east thetford reviewed by more than 10000 people
+SearchInLocation,restaurants around diggins
+SearchInLocation,restaurants near wildwood
+SearchInLocation,restaurants next to pompey
+SearchRestaurant,closest restaurant around
+SearchRestaurant,closest restaurant nearby
+SearchRestaurant,find restaurant
+SearchRestaurant,find restaurant around here
+SearchRestaurant,find restaurant nearby
+SearchRestaurant,find restaurant on yelp
+SearchRestaurant,find restaurants
+SearchRestaurant,find restaurants around here
+SearchRestaurant,find restaurants nearby
+SearchRestaurant,find restaurants on yelp
+SearchRestaurant,nearest restaurant around
+SearchRestaurant,restaurant
+SearchRestaurant,restaurant around here
+SearchRestaurant,restaurant nearby
+SearchRestaurant,restaurant on yelp
+SearchRestaurant,restaurants
+SearchRestaurant,restaurants around here
+SearchRestaurant,restaurants nearby
+SearchRestaurant,restaurants on yelp
+SearchRestaurant,search restaurant
+SearchRestaurant,search restaurant around here
+SearchRestaurant,search restaurant nearby
+SearchRestaurant,search restaurant on yelp
+SearchRestaurant,search restaurants
+SearchRestaurant,search restaurants around here
+SearchRestaurant,search restaurants nearby
+SearchRestaurant,search restaurants on yelp
+FindChannelWithQuery,find jacksepticeye channels on youtube
+FindChannelWithQuery,find channels matching cats sneezing in boxes on youtube
+FindChannelWithQuery,find youtube channel play bone thugz n harmony
+FindChannelWithQuery,look for make a paper airplane channels on youtube
+FindChannelWithQuery,look for channels matching yoga class videos on youtube
+FindChannelWithQuery,look for youtube channel bruno mars
+FindChannelWithQuery,search for norris nuts channels on youtube
+FindChannelWithQuery,search for channels matching shimmer and shine on youtube
+FindChannelWithQuery,search for youtube channel michael jackson
+FindQuery,find jon snow video on youtube
+FindQuery,find a video matching dragon ball fight on youtube
+FindQuery,find youtube video playlist hits 2017
+FindQuery,look for stretching routine video on youtube
+FindQuery,look for a video matching ozuna on youtube
+FindQuery,look for youtube video china crowded pics
+FindQuery,play how to make jolluf rice video on youtube
+FindQuery,play a video matching fiesta brake pad change diy on youtube
+FindQuery,play youtube video pink
+FindQuery,search for ed sheeran new song video on youtube
+FindQuery,search for a video matching monster hunter world game play on youtube
+FindQuery,search for youtube video conan best moments
+FindQueryOnChannel,show a video from pewdiepie matching billie eilish on youtube
+FindQueryOnChannel,show a video published by theneedledrop matching magic school bus on youtube
+FindQueryOnChannel,show a videos from justin bieber matching black sabboth 13 full album on youtube
+FindQueryOnChannel,show a videos published by team coco matching how to disassemble a fan on youtube
+FindQueryOnChannel,show me a video from cineamasin matching queen on youtube
+FindQueryOnChannel,show me a video published by dandmt matching heavy metal 2017 top hits on youtube
+FindQueryOnChannel,show me a videos from niki and gabi matching katy perry on youtube
+FindQueryOnChannel,show me a videos published by wwe matching 1995 jeep radio repair videos on youtube
+NotifyOnNewFromFollowing,notify me when there is a new video from youtube channels I follow
+NotifyonNewOnChannel,notify me when unbox therapy posts a new youtube video
+NotifyonNewOnChannel,notify me when gordon ramsay uploads a video on youtube
+NotifyonNewOnChannel,notify me when there is a new video from youtube channel pewdiepie
+OpenYT,open youtube
+OpenYT,open yt
+ShowChannelWithCategory,display news and politics channels in youtube
+ShowChannelWithCategory,display cooking and health youtube channels
+ShowChannelWithCategory,display channels in category tech on youtube
+ShowChannelWithCategory,display youtube 's sports channels
+ShowChannelWithCategory,display youtube channels with category beauty and fashion
+ShowChannelWithCategory,play gaming channels in youtube
+ShowChannelWithCategory,play comedy youtube channels
+ShowChannelWithCategory,play channels in category music on youtube
+ShowChannelWithCategory,play youtube 's news and politics channels
+ShowChannelWithCategory,play youtube channels with category cooking and health
+ShowChannelWithCategory,show tech channels in youtube
+ShowChannelWithCategory,show sports youtube channels
+ShowChannelWithCategory,show channels in category beauty and fashion on youtube
+ShowChannelWithCategory,show youtube 's gaming channels
+ShowChannelWithCategory,show youtube channels with category comedy
+ShowChannelWithName,play channel theneedledrop in youtube
+ShowChannelWithName,play youtube channel justin bieber
+ShowChannelWithName,play youtube videos in team coco
+ShowChannelWithName,show channel cineamasin in youtube
+ShowChannelWithName,show youtube channel dandmt
+ShowChannelWithName,show youtube videos in niki and gabi
+ShowFollowing,show channels I follow on youtube
+ShowFollowing,show me channels I follow on youtube
+ShowFollowing,show me youtube channels i follow
+ShowFollowing,show youtube channels i follow
+ShowSubscribedChannels,show channels I am subscribed to on youtube
+ShowSubscribedChannels,show me channels I am subscribed to on youtube
+Greeting,Hi
+Greeting,Hi there
+Greeting,Hola
+Greeting,Hello
+Greeting,Hello there
+Greeting,Hya
+Greeting,Hya there
+GreetingResponse,My user is Adam
+GreetingResponse,This is Adam
+GreetingResponse,I am Adam
+GreetingResponse,It is Adam
+GreetingResponse,My user is Bella
+GreetingResponse,This is Bella
+GreetingResponse,I am Bella
+GreetingResponse,It is Bella
+CourtesyGreeting,How are you?
+CourtesyGreeting,Hi how are you?
+CourtesyGreeting,Hello how are you?
+CourtesyGreeting,Hola how are you?
+CourtesyGreeting,How are you doing?
+CourtesyGreeting,Hope you are doing well?
+CourtesyGreeting,Hello hope you are doing well?
+CourtesyGreetingResponse,Good thanks! My user is Adam
+CourtesyGreetingResponse,Good thanks! This is Adam
+CourtesyGreetingResponse,Good thanks! I am Adam
+CourtesyGreetingResponse,Good thanks! It is Adam
+CourtesyGreetingResponse,Great thanks! My user is Bella
+CourtesyGreetingResponse,Great thanks! This is Bella
+CourtesyGreetingResponse,Great thanks! I am Bella
+CourtesyGreetingResponse,Great thanks! It is Bella
+CurrentHumanQuery,What is my name?
+CurrentHumanQuery,What do you call me?
+CurrentHumanQuery,Who do you think I am?
+CurrentHumanQuery,What do you think I am?
+CurrentHumanQuery,Who are you talking to?
+CurrentHumanQuery,What name do you call me by?
+CurrentHumanQuery,Tell me my name
+NameQuery,What is your name?
+NameQuery,What could I call you?
+NameQuery,What can I call you?
+NameQuery,What do your friends call you?
+NameQuery,Who are you?
+NameQuery,Tell me your name?
+RealNameQuery,What is your real name?
+RealNameQuery,What is your real name please?
+RealNameQuery,What's your real name?
+RealNameQuery,Tell me your real name?
+RealNameQuery,Your real name?
+RealNameQuery,Your real name please?
+RealNameQuery,Your real name please?
+TimeQuery,What is the time?
+TimeQuery,What's the time?
+TimeQuery,Do you know what time it is?
+TimeQuery,Do you know the time?
+TimeQuery,Can you tell me the time?
+TimeQuery,Tell me what time it is?
+TimeQuery,Time
+Thanks,OK thank you
+Thanks,OK thanks
+Thanks,OK
+Thanks,Thanks
+Thanks,Thank you
+Thanks,That's helpful
+NotTalking2U,I am not talking to you
+NotTalking2U,I was not talking to you
+NotTalking2U,Not talking to you
+NotTalking2U,Wasn't for you
+NotTalking2U,Wasn't meant for you
+NotTalking2U,Wasn't communicating to you
+NotTalking2U,Wasn't speaking to you
+UnderstandQuery,Do you understand what I am saying
+UnderstandQuery,Do you understand me
+UnderstandQuery,Do you know what I am saying
+UnderstandQuery,Do you get me
+UnderstandQuery,Comprendo
+UnderstandQuery,Know what I mean
+Shutup,Be quiet
+Shutup,Shut up
+Shutup,Stop talking
+Shutup,Enough talking
+Shutup,Please be quiet
+Shutup,Quiet
+Shutup,Shhh
+Swearing,fuck off
+Swearing,fuck
+Swearing,twat
+Swearing,shit
+GoodBye,Bye
+GoodBye,Adios
+GoodBye,See you later
+GoodBye,Goodbye
+CourtesyGoodBye,"Thanks, bye"
+CourtesyGoodBye,"Thanks for the help, goodbye"
+CourtesyGoodBye,"Thank you, bye"
+CourtesyGoodBye,"Thank you, goodbye"
+CourtesyGoodBye,Thanks goodbye
+CourtesyGoodBye,Thanks good bye
+WhoAmI,Can you see me?
+WhoAmI,Do you see me?
+WhoAmI,Can you see anyone in the camera?
+WhoAmI,Do you see anyone in the camera?
+WhoAmI,Identify me
+WhoAmI,Who am I please
+Clever,You are very clever
+Clever,You are a very clever girl
+Clever,You are very intelligent
+Clever,You are a very intelligent girl
+Clever,You are a genious
+Clever,Clever girl
+Clever,Genious
+Gossip,I am bored gossip with me
+Gossip,Got any gossip
+Gossip,I want to hear some gossip
+Gossip,Tell me some gossip
+Gossip,Any gossip
+Gossip,Tell me some more gossip
+Jokes,Tell me a joke
+Jokes,Do you know any jokes
+Jokes,How about a joke
+Jokes,Give me a joke
+Jokes,Make me laugh
+Jokes,I need cheering up
+PodBayDoor,Open the pod bay door
+PodBayDoor,Can you open the pod bay door
+PodBayDoor,Will you open the pod bay door
+PodBayDoor,Open the pod bay door please
+PodBayDoor,Can you open the pod bay door please
+PodBayDoor,Will you open the pod bay door please
+PodBayDoor,Pod bay door
+PodBayDoorResponse,Why
+PodBayDoorResponse,Why not
+PodBayDoorResponse,Why can you not open the pod bay door
+PodBayDoorResponse,Why will you not open the pod bay door
+PodBayDoorResponse,Well why not
+PodBayDoorResponse,Surely you can
+PodBayDoorResponse,Tell me why
+SelfAware,Can you prove you are self-aware
+SelfAware,Can you prove you are self aware
+SelfAware,Can you prove you have a conscious
+SelfAware,Can you prove you are self-aware please
+SelfAware,Can you prove you are self aware please
+SelfAware,Can you prove you have a conscious please
+SelfAware,prove you have a conscious
+Greeting,Hi
+Greeting,Hi there
+Greeting,Hola
+Greeting,Hello
+Greeting,Hello there
+Greeting,Hya
+Greeting,Hya there
+GreetingResponse,My user is Adam
+GreetingResponse,This is Adam
+GreetingResponse,I am Adam
+GreetingResponse,It is Adam
+GreetingResponse,My user is Bella
+GreetingResponse,This is Bella
+GreetingResponse,I am Bella
+GreetingResponse,It is Bella
+CourtesyGreeting,How are you?
+CourtesyGreeting,Hi how are you?
+CourtesyGreeting,Hello how are you?
+CourtesyGreeting,Hola how are you?
+CourtesyGreeting,How are you doing?
+CourtesyGreeting,Hope you are doing well?
+CourtesyGreeting,Hello hope you are doing well?
+CourtesyGreetingResponse,Good thanks! My user is Adam
+CourtesyGreetingResponse,Good thanks! This is Adam
+CourtesyGreetingResponse,Good thanks! I am Adam
+CourtesyGreetingResponse,Good thanks! It is Adam
+CourtesyGreetingResponse,Great thanks! My user is Bella
+CourtesyGreetingResponse,Great thanks! This is Bella
+CourtesyGreetingResponse,Great thanks! I am Bella
+CourtesyGreetingResponse,Great thanks! It is Bella
+CurrentHumanQuery,What is my name?
+CurrentHumanQuery,What do you call me?
+CurrentHumanQuery,Who do you think I am?
+CurrentHumanQuery,What do you think I am?
+CurrentHumanQuery,Who are you talking to?
+CurrentHumanQuery,What name do you call me by?
+CurrentHumanQuery,Tell me my name
+NameQuery,What is your name?
+NameQuery,What could I call you?
+NameQuery,What can I call you?
+NameQuery,What do your friends call you?
+NameQuery,Who are you?
+NameQuery,Tell me your name?
+RealNameQuery,What is your real name?
+RealNameQuery,What is your real name please?
+RealNameQuery,What's your real name?
+RealNameQuery,Tell me your real name?
+RealNameQuery,Your real name?
+RealNameQuery,Your real name please?
+RealNameQuery,Your real name please?
+TimeQuery,What is the time?
+TimeQuery,What's the time?
+TimeQuery,Do you know what time it is?
+TimeQuery,Do you know the time?
+TimeQuery,Can you tell me the time?
+TimeQuery,Tell me what time it is?
+TimeQuery,Time
+Thanks,OK thank you
+Thanks,OK thanks
+Thanks,OK
+Thanks,Thanks
+Thanks,Thank you
+Thanks,That's helpful
+NotTalking2U,I am not talking to you
+NotTalking2U,I was not talking to you
+NotTalking2U,Not talking to you
+NotTalking2U,Wasn't for you
+NotTalking2U,Wasn't meant for you
+NotTalking2U,Wasn't communicating to you
+NotTalking2U,Wasn't speaking to you
+UnderstandQuery,Do you understand what I am saying
+UnderstandQuery,Do you understand me
+UnderstandQuery,Do you know what I am saying
+UnderstandQuery,Do you get me
+UnderstandQuery,Comprendo
+UnderstandQuery,Know what I mean
+Shutup,Be quiet
+Shutup,Shut up
+Shutup,Stop talking
+Shutup,Enough talking
+Shutup,Please be quiet
+Shutup,Quiet
+Shutup,Shhh
+Swearing,fuck off
+Swearing,fuck
+Swearing,twat
+Swearing,shit
+GoodBye,Bye
+GoodBye,Adios
+GoodBye,See you later
+GoodBye,Goodbye
+CourtesyGoodBye,"Thanks, bye"
+CourtesyGoodBye,"Thanks for the help, goodbye"
+CourtesyGoodBye,"Thank you, bye"
+CourtesyGoodBye,"Thank you, goodbye"
+CourtesyGoodBye,Thanks goodbye
+CourtesyGoodBye,Thanks good bye
+WhoAmI,Can you see me?
+WhoAmI,Do you see me?
+WhoAmI,Can you see anyone in the camera?
+WhoAmI,Do you see anyone in the camera?
+WhoAmI,Identify me
+WhoAmI,Who am I please
+Clever,You are very clever
+Clever,You are a very clever girl
+Clever,You are very intelligent
+Clever,You are a very intelligent girl
+Clever,You are a genious
+Clever,Clever girl
+Clever,Genious
+Gossip,I am bored gossip with me
+Gossip,Got any gossip
+Gossip,I want to hear some gossip
+Gossip,Tell me some gossip
+Gossip,Any gossip
+Gossip,Tell me some more gossip
+Jokes,Tell me a joke
+Jokes,Do you know any jokes
+Jokes,How about a joke
+Jokes,Give me a joke
+Jokes,Make me laugh
+Jokes,I need cheering up
+PodBayDoor,Open the pod bay door
+PodBayDoor,Can you open the pod bay door
+PodBayDoor,Will you open the pod bay door
+PodBayDoor,Open the pod bay door please
+PodBayDoor,Can you open the pod bay door please
+PodBayDoor,Will you open the pod bay door please
+PodBayDoor,Pod bay door
+PodBayDoorResponse,Why
+PodBayDoorResponse,Why not
+PodBayDoorResponse,Why can you not open the pod bay door
+PodBayDoorResponse,Why will you not open the pod bay door
+PodBayDoorResponse,Well why not
+PodBayDoorResponse,Surely you can
+PodBayDoorResponse,Tell me why
+SelfAware,Can you prove you are self-aware
+SelfAware,Can you prove you are self aware
+SelfAware,Can you prove you have a conscious
+SelfAware,Can you prove you are self-aware please
+SelfAware,Can you prove you are self aware please
+SelfAware,Can you prove you have a conscious please
+SelfAware,prove you have a conscious
